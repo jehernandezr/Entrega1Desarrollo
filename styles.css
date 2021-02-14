@@ -1,0 +1,26 @@
+.banner
+{
+    width: 100%;
+    height: auto;
+}
+
+.barraNav
+{
+    background-color: rgb(62, 156, 125);
+}
+
+.cardos
+{
+    margin: 1.5rem;
+}
+
+.carrousel-back
+{
+    background-color: beige;
+}
+
+.footer
+{
+    background-color: cadetblue;
+    height: 3rem;
+}
